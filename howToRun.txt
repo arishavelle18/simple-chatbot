@@ -1,0 +1,5 @@
+1 go to terminal 
+2. install niyo to  "pip install flask torch torchvision nltk"
+3. pag unang beses niyo palang i rurun i train niyo muna yung data
+gamit to "python train.py"
+4. para marun "python app.py"
